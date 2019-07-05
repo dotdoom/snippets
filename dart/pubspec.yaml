@@ -1,0 +1,3 @@
+name: dart_experiments
+dependencies:
+  observable: any
